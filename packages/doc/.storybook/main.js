@@ -20,13 +20,10 @@ const config = {
   },
   viteFinal: (config, { configType }) => {
     if (configType === 'PRODUCTION') {
-      config.base = '/design-system'
+      config.base = '/design-system/'
     }
-<<<<<<< HEAD
 
     return config
-=======
->>>>>>> d7969f5baf0aeda677eb7dc2e71177da4573cf14
   }
 };
 export default config;
