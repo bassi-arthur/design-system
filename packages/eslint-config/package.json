@@ -1,5 +1,5 @@
 {
-  "name": "@awb-ui/eslint-config",
+  "name": "@awb-material-ui/eslint-config",
   "license": "MIT",
   "private": true,
   "main": "index.js",

@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Heading, HeadingProps } from '@awb-ui/react'
+import { Heading, HeadingProps } from '@awb-material-ui/react'
 
 export default {
   title: 'Typography/Heading',

@@ -1,5 +1,5 @@
 {
-  "name": "@awb-ui/doc",
+  "name": "@awb-material-ui/doc",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,10 +13,10 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@awb-ui/eslint-config": "*",
-    "@awb-ui/react": "*",
-    "@awb-ui/tokens": "*",
-    "@awb-ui/ts-config": "*",
+    "@awb-material-ui/eslint-config": "*",
+    "@awb-material-ui/react": "*",
+    "@awb-material-ui/tokens": "*",
+    "@awb-material-ui/ts-config": "*",
     "@storybook/addon-a11y": "^7.1.1",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2"

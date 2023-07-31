@@ -6,7 +6,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@awb-ui/tokens'
+} from '@awb-material-ui/tokens'
 import { createStitches, defaultThemeMap } from '@stitches/react'
 
 export const {

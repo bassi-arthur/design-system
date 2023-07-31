@@ -1,5 +1,5 @@
 {
-  "name": "@awb-ui/tokens",
+  "name": "@awb-material-ui/tokens",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -15,8 +15,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@awb-ui/eslint-config": "*",
-    "@awb-ui/ts-config": "*",
+    "@awb-material-ui/eslint-config": "*",
+    "@awb-material-ui/ts-config": "*",
     "tsup": "^7.1.0",
     "typescript": "^5.1.6"
   }

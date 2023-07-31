@@ -1,4 +1,4 @@
 {
-  "extends": "@awb-ui/ts-config/base.json",
+  "extends": "@awb-material-ui/ts-config/base.json",
   "include": ["src"]
 }

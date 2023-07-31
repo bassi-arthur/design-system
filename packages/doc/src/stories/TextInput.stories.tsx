@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Box, Text, TextInput, TextInputProps } from '@awb-ui/react'
+import { Box, Text, TextInput, TextInputProps } from '@awb-material-ui/react'
 
 export default {
   title: 'Form/Text Input',

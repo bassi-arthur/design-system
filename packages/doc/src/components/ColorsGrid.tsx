@@ -1,4 +1,4 @@
-import { colors } from '@awb-ui/tokens'
+import { colors } from '@awb-material-ui/tokens'
 import { getContrast } from 'polished'
 
 export function ColorsGrid() {

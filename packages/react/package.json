@@ -1,5 +1,5 @@
 {
-  "name": "@awb-ui/react",
+  "name": "@awb-material-ui/react",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -15,9 +15,9 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@awb-ui/eslint-config": "*",
-    "@awb-ui/tokens": "*",
-    "@awb-ui/ts-config": "*",
+    "@awb-material-ui/eslint-config": "*",
+    "@awb-material-ui/tokens": "*",
+    "@awb-material-ui/ts-config": "*",
     "@types/react": "^18.2.14",
     "@types/react-dom": "^18.2.6",
     "react": "^18.2.0",

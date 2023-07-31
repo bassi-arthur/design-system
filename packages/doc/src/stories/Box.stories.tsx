@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Box, BoxProps, Text } from '@awb-ui/react'
+import { Box, BoxProps, Text } from '@awb-material-ui/react'
 
 export default {
   title: 'Surfaces/Box',
